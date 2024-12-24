@@ -2,7 +2,12 @@
 **Análisis de los Productos Más Vendidos y Menos Rentables**  
 
 ## 📋 Descripción del Proyecto  
-Este proyecto tiene como objetivo identificar los **10 productos con mayores ventas pero con menor margen de ganancia**, ayudando a optimizar la estrategia de precios y a mejorar la rentabilidad.  
+Este proyecto tiene como objetivo analizar:  
+1. Los **10 productos con mayores ventas** y evaluar su **utilidad** para identificar aquellos que, a pesar de venderse en grandes volúmenes, podrían tener márgenes de ganancia bajos.  
+2. Los **10 productos con menor utilidad** y revisar sus **volúmenes de ventas**, lo que permite detectar productos con márgenes de ganancia reducidos que podrían beneficiarse de estrategias de promoción o ajuste de precios.  
+
+El análisis proporciona una visión integral que facilita la optimización de precios, la maximización de la rentabilidad y la identificación de oportunidades para aumentar ingresos o reducir costos.  
+
 
 El sistema procesa **reportes mensuales de ventas y compras** en formato Excel, consolidando los datos y generando reportes visuales y tabulares. La salida incluye:  
 - **📊 Archivos Excel** con los datos procesados y analizados.  
